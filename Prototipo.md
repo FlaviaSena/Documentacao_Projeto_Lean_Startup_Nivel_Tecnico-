@@ -1,3 +1,5 @@
+![badge-status](https://img.shields.io/badge/status-Em_Desenvolvimento-green?style=for-the-badge)
+
 ## 1. Introdução
 
 <p style="text-indent: 20px; text-align: justify">
