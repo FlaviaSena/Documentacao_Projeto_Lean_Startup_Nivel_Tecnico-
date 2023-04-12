@@ -9,7 +9,7 @@
 
 A documentação está nas regras da 'ABNT', sendo assim alguns padrões para continuarem complementando o documento. Geral: Fonte Times New Roman
 
-1. Titulo do App: SEU PRATO CERTO
+### Titulo do App: SEU PRATO CERTO
 
 > Descrição
 Aplicativo de Ecommerce para atender pessoas que tem ou desejam ter abtos alimentares mais saudáveis, e não tem tempo para preparar em casa.
