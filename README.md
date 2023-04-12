@@ -25,7 +25,11 @@ Aplicativo de Ecommerce para atender pessoas que tem ou desejam ter abtos alimen
 
 ## Créditos
 
-> Desenvolvido por: 
+#### Desenvolvido por: 
+  Flavia Sena LinkedIn: https://www.linkedin.com/in/flavia-sena/
+<br>
+  Raphael Felix LinkedIn:  https://www.linkedin.com/in/iraphaelfelix/
+
 <table>
   <tbody>
     <tr>      
@@ -33,7 +37,5 @@ Aplicativo de Ecommerce para atender pessoas que tem ou desejam ter abtos alimen
        <td align="center" valign="top" width="14.28%"><a href="https://github.com/felixraphael"><img src="https://avatars.githubusercontent.com/u/106356357?v=4" width="100px;" alt="Raphael"/><br /><sub><b>Raphael Felix</b></sub></a><br /><a href="https://https://github.com/FlaviaSena/Projeto_Lean_Startup_Nivel_Tecnico" title="Code"></a></td>
   </tbody>
 </table>
-> LinkedIn: Flavia Sena https://www.linkedin.com/in/flavia-sena/
-<br>
-> LinkedIn: Raphael Felix https://www.linkedin.com/in/iraphaelfelix/
+
 
