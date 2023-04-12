@@ -11,13 +11,13 @@ A documentação está nas regras da 'ABNT', sendo assim alguns padrões para co
 
 ### Titulo do App: SEU PRATO CERTO
 
-> Descrição
+> Descrição:
 Aplicativo de Ecommerce para atender pessoas que tem ou desejam ter abtos alimentares mais saudáveis, e não tem tempo para preparar em casa.
 
 
 ## O que contém?
 
-> Descrição
+> Descrição:
 
 ## License
 
