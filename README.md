@@ -2,26 +2,7 @@
 
 ![badge-status](https://img.shields.io/badge/status-Em_Desenvolvimento-green?style=for-the-badge)
 
-# Documentação de Software
 
-
-## Regras do Documento
-
-A documentação está nas regras da 'ABNT', sendo assim alguns padrões para continuarem complementando o documento. Geral: Fonte Times New Roman
-
-### Titulo do App: PRATO CERTO
-
-> Descrição:
-Aplicativo de Ecommerce para atender pessoas que tem ou desejam ter abtos alimentares mais saudáveis, e não tem tempo para preparar em casa.
-
-
-## O que contém?
-
-> Descrição:
-
-## License
-
-> Todos os direitos reservados!
 
 ## Créditos
 
