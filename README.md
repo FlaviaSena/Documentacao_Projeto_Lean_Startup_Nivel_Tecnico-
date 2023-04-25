@@ -1,6 +1,6 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=000000&size=40&center=true&vCenter=true&width=1000&lines=+Bem+Vindo+a+Documentação+do+App!)
 
-![badge-status](https://img.shields.io/badge/status-Em_Desenvolvimento-green?style=for-the-badge)
+![badge-status](https://img.shields.io/badge/status-Finalizado-green?style=for-the-badge)
 
 
 
